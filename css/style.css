@@ -1,0 +1,20 @@
+/*Add a background image */
+h1 {
+    background-image: url(paris.jpg);
+    
+}
+
+/*Container holding the image and the text */
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}
+
+/*Centered text */
+.centered {
+    position: absolute;
+    top: 8px;
+    left: 50%
+    
+}
